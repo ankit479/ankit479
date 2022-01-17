@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit479
 - 👀 I’m interested in Open Source Development and Learning
-- 🌱 I’m currently learning C++,Python,Java.
+- 🌱 I’m currently learning C++,Python,Java,Bash.
 - 💞️ I’m looking to collaborate on Open Source Development
 - 📫 How to reach me ankitsengupta497@gmail.com
 
