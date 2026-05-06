@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankit479
 - 👀 I’m a Firmware Engineer, proficient in C/C++.
-- 🌱 I’m currently learning C++,Python,Java.
-- 💞️ I’m looking to collaborate on Open Source Development
+- 🌱 I’m currently learning C++,Python,Rtos.
+- 💞️ I’m looking to collaborate on Open Source Development in Fw Projects
 - 📫 How to reach me: ankitsengupta497@gmail.com
 
 <!---
